@@ -1,0 +1,90 @@
+/* h1
+{
+    color:#3F2D2D;
+    font-size: 64px;
+    font-family: 'Poppins';
+    font-weight: 1000;
+    background: linear-gradient(91deg, #5EAACA 0%, rgba(204, 48, 76, 0.85) 33.33%, #2A69F2 66.67%, rgba(38, 217, 77, 0.90) 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+
+p
+{
+    font-size: 32px;
+    font-family: 'Poppins';
+}
+h5
+{
+    font-size: 28px;
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+.card
+{
+    border-radius: 30px !important;
+    margin-left: auto; 
+    float: none;
+    background-color:#F7F1F1!important;
+}
+.card-img-top
+{
+    width: 40px;
+     height: 200px;
+     
+}
+.card-text
+{
+   
+    font-size: 12px;
+}
+
+
+
+ */
+
+ .services
+{
+    color:#3F2D2D;
+    font-size: 40px;
+    font-family: 'Poppins';
+    font-weight: 800;
+    text-align: center;
+}
+.heading
+{
+    font-size: 28px;
+    font-family: 'Poppins';
+    text-align: center;
+}
+.card-title
+{
+    font-size: 20px;
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+.card
+{
+    border-radius: 30px !important;
+    margin-left: auto; 
+    float: none;
+    background-color:#F7F1F1!important;
+    height: 480px;
+}
+.card-img-top
+{
+    width: 240px;
+     height: 200px;
+    margin-left: 50px;
+     
+}
+.card-text
+{
+   
+    font-size: 14px;
+}
+
+
+
